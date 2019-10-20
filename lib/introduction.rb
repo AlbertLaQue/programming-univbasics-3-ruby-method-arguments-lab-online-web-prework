@@ -4,12 +4,12 @@
 # in order to complete the rest of this course and be ready for the next course!
 
 #introduction
-def greeting = greeting_somone_new(name)
+def greeting_somone_new(name)
   puts "Hi, my name is #{name}."
 end
 
 #introduction_with_language
-def greeting 
+def
 end
 
 #introduction_with_language_optional
