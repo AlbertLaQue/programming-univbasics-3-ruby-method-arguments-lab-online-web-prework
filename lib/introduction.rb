@@ -4,7 +4,7 @@
 # in order to complete the rest of this course and be ready for the next course!
 
 #introduction
-def greeting_someone_new(name)
+def greeting_someone_new(Eminem)
   puts "Hi, my name is #{name}."
 end
 
