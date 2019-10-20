@@ -10,13 +10,6 @@ end
 
 greeting_someone_new
 
-#introduction_with_language
-def
-end
-
-#introduction_with_language_optional
-def
-end
 
 
 
