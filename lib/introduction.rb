@@ -8,7 +8,7 @@ def greeting_someone_new(name)
   puts "Hi, my name is #{name}."
 end
 
-greeting_someone_new
+greeting_someone_new("slim shady")
 
 
 
